@@ -5,7 +5,7 @@ In the era of big data, Data Processing Units (DPUs) have gained significant att
 As a firmware engineer for about ten years ago, I hadn’t encountered DPUs until recently. Time has passed, and while I may not fully grasp their complexities, I want to ensure I’m not left behind.
 
 ## Motivation
-- Grasp the fundamental principles of DPU architecture.
+- Understand the fundamental principles of DPU architecture, not limited to them.
 - Explore mainstream products and emerging development trends.
 
 [NVIDIA-DPU-BlueField-3](pages/NVIDIA-DPU-BlueField-3/README.md)
